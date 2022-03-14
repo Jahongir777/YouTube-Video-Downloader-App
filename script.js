@@ -7,5 +7,5 @@ convertBtn.addEventListener("click", function() {
 })
 
 function sendURL(URL) {
-  window.location.href = `http://localhost:4000/download?URL=${URL}`;
+  window.location.href = `https://github.com/Jahongir777/YouTube-Video-Downloader-App/blob/main/index.html/download?URL=${URL}`;
 }
